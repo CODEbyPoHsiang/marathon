@@ -1,6 +1,6 @@
 "# marathon"
 
-git clone https://github.com/yctung56815681/marathon.git<br/>
+git clone https://github.com/CODEbyPoHsiang/marathon.git<br/>
 cd marathon<br/>
 composer install<br/>
 
